@@ -1,0 +1,7 @@
+@media screen and (max-width:430px) {
+    .Header_Part {
+        width: 85%;
+        height: 70%;
+        background: #000;
+    }
+}
